@@ -1,0 +1,2 @@
+# ngMultiSelect
+multiselect using angular
