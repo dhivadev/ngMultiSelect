@@ -1,0 +1,33 @@
+ul, li{
+	list-style-type: none;
+	margin: 0;
+	padding: 0
+}
+.multiSelectContainer{
+	width: 20%;
+}
+.filterAndDropdown{
+	width:100%;
+	text-align: center;
+	border: 1px solid #ccc;
+	border-radius: 3px;	
+}
+.textBox{
+	width:97%;
+	height: 21px;
+	padding: 2px;
+	border: 1px solid #ccc;
+	
+}
+.titleSelect{
+	width:97%;
+	text-align:center;
+	border: 1px solid #ccc;
+	border-radius: 3px;
+	margin: 0 0 5px 0;
+	padding: 5px;
+	background: url("../assets/arrow-down.png") no-repeat right center;
+}
+.menuDrop{
+	text-align:left;
+}
